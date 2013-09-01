@@ -1,0 +1,38 @@
+Alabama,Mississippi,5781,0.28
+Arizona,New Mexico,4132,0.56
+Arkansas,Missouri,5132,0.06
+Arkansas,Mississippi,7813,0.14
+California,Nevada,9856,0.08
+California,Oregon,11832,0.11
+Colorado,Nebraska,10850,0.1
+Colorado,Utah,11847,0.12
+Idaho,Nevada,10122,0.09
+Iowa,Missouri,2376,0.1
+Iowa,Minnesota,7688,0.11
+Minnesota,Iowa,7688,0.11
+Minnesota,Nebraska,9657,0.16
+Mississippi,Alabama,5781,0.28
+Mississippi,Arkansas,7813,0.14
+Missouri,Iowa,2376,0.1
+Missouri,Oklahoma,4132,0.13
+Missouri,Arkansas,5132,0.06
+Montana,Wyoming,11294,0.15
+Montana,Washington,11987,0.18
+Nebraska,Minnesota,9657,0.16
+Nebraska,Colorado,10850,0.1
+Nevada,California,9856,0.08
+Nevada,Idaho,10122,0.09
+New Mexico,Texas,3124,0.27
+New Mexico,Arizona,4132,0.56
+Oklahoma,Missouri,4132,0.13
+Oklahoma,Texas,6513,0.29
+Oregon,Washington,10214,0.09
+Oregon,California,11832,0.11
+Texas,New Mexico,3124,0.27
+Texas,Oklahoma,6513,0.29
+Utah,Colorado,11847,0.12
+Utah,Wyoming,13000,0.08
+Washington,Oregon,10214,0.09
+Washington,Montana,11987,0.18
+Wyoming,Montana,11294,0.15
+Wyoming,Utah,13000,0.08
